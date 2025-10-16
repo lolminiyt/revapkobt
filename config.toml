@@ -21,7 +21,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
-patches-version = "pre-release"
+patches-version = "dev"
 
 [Pixiv]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
